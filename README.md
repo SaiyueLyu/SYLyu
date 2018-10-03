@@ -1,6 +1,6 @@
 ## A Math Student At University of Waterloo
 
-I am a student in University of Waterloo double major in [Pure Math](https://uwaterloo.ca/pure-mathematics/) and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/). Here is the CV of me.
+I am a student in [University of Waterloo](https://uwaterloo.ca/math/) double major in [Pure Math](https://uwaterloo.ca/pure-mathematics/) and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/). Here is the CV of me.
 
 ### Side Project 
 
