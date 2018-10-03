@@ -25,23 +25,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Coursework at UW
 
- Math 147 – Advanced Calculus 1  Math 145 – Advanced Algebra
- Math 148 – Advanced Calculus 2  Math 146 – Advanced Linear Algebra 1
- Math 247 – Advanced Calculus 3  Math 245 – Advanced Linear Algebra 2
- CS 135 – Designing Functional Programs  CS 136 – Elementary Algorithm Design and Data
-Abstraction
- Math 239 – Introduction to Combinatorics  CO 250 – Introduction to Optimization
- PMath 347 – Group and Ring  PMath 348 – Field and Galois Theory
- PMath 351 – Real Analysis  PMath 352 – Complex Analysis
- PMath 450/650 – Lebesgue Integration and
-Fourier Analysis
+ Math 147 – Advanced Calculus 1                     Math 145 – Advanced Algebra
+ Math 148 – Advanced Calculus 2                     Math 146 – Advanced Linear Algebra 1
+ Math 247 – Advanced Calculus 3                     Math 245 – Advanced Linear Algebra 2
+ CS 135 – Designing Functional Programs             CS 136 – Elementary Algorithm Design and Data Abstraction
+ Math 239 – Introduction to Combinatorics           CO 250 – Introduction to Optimization
+ PMath 347 – Group and Ring                         PMath 348 – Field and Galois Theory
+ PMath 351 – Real Analysis                          PMath 352 – Complex Analysis
+ PMath 450/650 – Lebesgue Integration and Fourier Analysis
  PMath 441/641 – Algebraic Number Theory
- PMath 465/665 – Geometry of Manifolds  PMath 451/651 – Measure Theory
- CO 330 – Combinatorial Enumeration  CO 351 – Network flow
- CO 367 – Nonlinear Optimization  CO 487/687 – Applied Cryptography
- Stat 240 – Advanced Probability  Stat 231 – Statistics
- Phys 111 – Mechanics Physics 1  Phys 111L – Lab to Phys 111
- Phys 122 – Wave, Electricity, Magnetism { Phys 122L – Lab to Phys 122
+ PMath 465/665 – Geometry of Manifolds              PMath 451/651 – Measure Theory
+ CO 330 – Combinatorial Enumeration
+ CO 367 – Nonlinear Optimization                    CO 487/687 – Applied Cryptography
+ Stat 240 – Advanced Probability                    Stat 231 – Statistics
+ Phys 111 – Mechanics Physics 1                     Phys 111L – Lab to Phys 111
+ Phys 122 – Wave, Electricity, Magnetism            Phys 122L – Lab to Phys 122
 
 
 
