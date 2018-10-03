@@ -6,7 +6,7 @@ I am a student in University of Waterloo double major in [Pure Math](https://uwa
 
 [Predicting Trends of Languages and Determining Office Locations by Statistics Model](https://github.com/SaiyueLyu/The-Mathematical-Contest-in-Modeling/blob/master/main.pdf) (2018 COMAP MCM, Mathematical Contest in Modeling, Meritorrious Winner). It predicted the future trends of various languages using ARIMA model and select locations for international office based on the projected data.
 
-[A step to Get Access to Fermat's Last Theorm -- Lamé’s Lemma and Kummer’s Lemma] (https://github.com/SaiyueLyu/PMATH/blob/master/247_final_project.pdf) A tiny essay about [Algebraic Number Thoery] (https://en.wikipedia.org/wiki/Algebraic_number_theory)to look at Lamé’s Lemma and Kummer’s Lemma using group theory to show a special case
+[A step to Get Access to Fermat's Last Theorm -- Lamé’s Lemma and Kummer’s Lemma](https://github.com/SaiyueLyu/PMATH/blob/master/247_final_project.pdf) A tiny essay about [Algebraic Number Thoery] (https://en.wikipedia.org/wiki/Algebraic_number_theory)to look at Lamé’s Lemma and Kummer’s Lemma using group theory to show a special case
 of Fermat’s Last Theorem : x^p + y^p = z^p while Z[ω] = \{\sum_{i=1} a_iω^{i−1}\} is a unique factorization domain
 with p being a prime has no integer solution
 
